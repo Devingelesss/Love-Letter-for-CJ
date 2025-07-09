@@ -1,1 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://devingelesss.github.io/Love-Letter-for-CJ/sitemap.xml
 
